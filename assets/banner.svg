@@ -100,7 +100,7 @@
     <g transform="translate(600, 52)">
       <rect x="-190" y="0" width="380" height="30" rx="15" fill="#0f2b48" stroke="#00D2FF" stroke-width="1.2" stroke-opacity="0.8" />
       <text x="0" y="19" text-anchor="middle" fill="#00D2FF" font-size="12" font-weight="700" letter-spacing="1.5">
-        ⚡ LOCAL-FIRST &bull; HOME ASSISTANT &bull; AI MCP ECOSYSTEM
+        ⚡ LOCAL-FIRST &#x2022; HOME ASSISTANT &#x2022; AI MCP ECOSYSTEM
       </text>
     </g>
 
@@ -151,7 +151,7 @@
     <!-- Bottom Metric / Status Summary Line -->
     <g transform="translate(600, 315)">
       <text x="0" y="0" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="400">
-        🌟 20+ Active Open-Source Repositories &bull; 🌐 Top SaaS Ecosystems &bull; 🔒 Privacy &amp; Local Automation
+        🌟 20+ Active Open-Source Repositories &#x2022; 🌐 Top SaaS Ecosystems &#x2022; 🔒 Privacy &amp; Local Automation
       </text>
     </g>
   </g>
