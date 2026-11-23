@@ -61,9 +61,9 @@ The following table benchmarks notable SaaS, hosted, and hybrid cloud smart home
 
 ## ⭐ Open-Source GitHub Projects
 
-Explore the most prominent open-source GitHub projects powering modern smart homes, local AI integrations, firmware, and bridges. **Sorted in descending order by GitHub Stars.**
+Explore the most prominent open-source GitHub projects powering modern smart homes, local AI integrations, firmware, and bridges. **Sorted in descending order by GitHub_Stars.**
 
-| 📦 Repository | ⭐ Stars | 📝 Description | 🏷️ Tech Stack / Key Focus |
+| 📦 Repository | ⭐ GitHub_Stars | 📝 Description | 🏷️ Tech Stack / Key Focus |
 | :--- | :--- | :--- | :--- |
 | **[Home Assistant Core](https://github.com/home-assistant/core)** | [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Open-source home automation platform putting local control and privacy first with 3,000+ native integrations. | Python, AsyncIO, WebSockets, Local-first |
 | **[Frigate NVR](https://github.com/blakeblackshear/frigate)** | [![Stars](https://img.shields.io/github/stars/blakeblackshear/frigate?style=social&color=white)](https://github.com/blakeblackshear/frigate/stargazers) | High-performance NVR with real-time local AI object detection (Google Coral, OpenVINO, TensorRT) integrated into Home Assistant. | Python, TensorRT, Coral, OpenCV, MQTT |
@@ -108,7 +108,7 @@ Contributions are wholeheartedly welcomed! To propose additions or updates:
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a descriptive branch: `git checkout -b feature/add-new-smart-home-tool`.
-3. 📝 Update `README.md` following the established table structure, precise pricing details, and star badges.
+3. 📝 Update `README.md` following the established table structure, precise pricing details, and Stars_Badges.
 4. 🔍 Keep entries factual, concise, and linked directly to official documentation or source repositories.
 5. 🚀 Submit a Pull Request with a succinct explanation of why the tool is valuable.
 
